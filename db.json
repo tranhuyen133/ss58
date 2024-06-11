@@ -1,0 +1,97 @@
+{
+    "user": [{
+            "name": "nguyenthanhnam",
+            "address": "Hà Nội",
+            "id": 2,
+            "age": 18
+        },
+        {
+            "address": "Thái Bình",
+            "name": "nguyenthanhnam",
+            "id": 1,
+            "age": 17
+        },
+        {
+            "address": "Thái Bình",
+            "name": "nguyenthanhnam",
+            "id": 1,
+            "age": 17
+        },
+        {
+            "address": "Thái Bình",
+            "name": "nguyenthanhnam",
+            "id": 1,
+            "age": 17
+        },
+        {
+            "address": "Thái Bình",
+            "name": "nguyenthanhnam",
+            "id": 1,
+            "age": 17
+        }
+    ],
+    "student": [{
+            "id": 1,
+            "student_name": "nguyenthanhnam",
+            "email": "nva@gmail.com",
+            "address": "Nam Định ",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "26/5/2005"
+        },
+        {
+            "id": 2,
+            "student_name": "B",
+            "email": "nv@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "12/02/2005"
+        },
+        {
+            "id": 3,
+            "student_name": "C",
+            "email": "nv@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "11/02/2005"
+        },
+        {
+            "id": 4,
+            "student_name": "D",
+            "email": "nv@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "11/02/2005"
+        },
+        {
+            "id": 5,
+            "student_name": "E",
+            "email": "nve@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "11/02/2005"
+        },
+        {
+            "student_name": "F",
+            "email": "nv@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "11/02/2005",
+            "id": 6
+        },
+        {
+            "student_name": "F",
+            "email": "vF@gmail.com",
+            "address": "Nhà",
+            "phone": "0355483082",
+            "status": true,
+            "created_at": "11/02/2005",
+            "id": 7
+        }
+    ]
+}
